@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToeScribd</string>
+
+    <style name="CellTextView">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">48sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <string name="user1_hint">User 1</string>
+    <string name="user2_hint">User 2</string>
+    <string name="game_dialog_title">New Match</string>
+    <string name="done">Submit</string>
+    <string name="game_dialog_empty_name">Name cannotn\'t be empty</string>
+    <string name="game_dialog_same_names">Names cannotn\'t be the same</string>
+    <string name="game_end_dialog_headline">The winner is</string>
+
+
+</resources>
